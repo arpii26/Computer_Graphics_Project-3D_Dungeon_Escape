@@ -239,7 +239,5 @@ This project helped us gain practical experience in:
 * Better enemy pathfinding (A*)
 * Procedural maze generation
 * Additional enemy types
-* Save/load system
 * Improved textures and lighting
 * Multiplayer support
-
